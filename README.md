@@ -1,2 +1,2 @@
 # Furniture_UI
-Furniture website 
+Furniture website using HTML,CSS,Javascript
